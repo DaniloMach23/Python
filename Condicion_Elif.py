@@ -19,5 +19,5 @@ elif edad>=18 and edad<=70:
         print("puede obtener permiso estandar")
 elif  edad>70:
     print("necesita un permiso especial de conduccion")
-else
+else:
         print("no puede conducir")
